@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo-5558\\Desktop\\matrix_task\\14OktyabrTask\\14OktaybrTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A34EA3A-E116-4AE2-B0F5-202259C04672}|14OktaybrTask\\14OktaybrTask.csproj|c:\\users\\lenovo-5558\\desktop\\matrix_task\\14oktyabrtask\\14oktaybrtask\\14oktaybrtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A34EA3A-E116-4AE2-B0F5-202259C04672}|14OktaybrTask\\14OktaybrTask.csproj|solutionrelative:14oktaybrtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo-5558\\Desktop\\matrix_task\\14OktyabrTask\\14OktaybrTask\\14OktaybrTask\\Program.cs",
+              "RelativeDocumentMoniker": "14OktaybrTask\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo-5558\\Desktop\\matrix_task\\14OktyabrTask\\14OktaybrTask\\14OktaybrTask\\Program.cs",
+              "RelativeToolTip": "14OktaybrTask\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T18:08:36.719Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
